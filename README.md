@@ -1,50 +1,50 @@
 <h1 align="center">Hey, I'm Vishesh Rawal 👋</h1>
 <p align="center">
-  🔧 Engineering Student @ MIT-WPU Pune | Electrical & Computer Engineering  
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Engineer+in+the+making+🛠️;Building+Tech+that+Shakes+the+World!;Let’s+Cook+Big+💻🔥&center=true&width=440&height=45&color=3F78F4&vCenter=true&size=22" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎯 Future-focused engineer passionate about **AI, Cybersecurity, VLSI, IoT, Chip Design and software integration and EV Tech**
-- 🧠 Currently building a solid foundation in **Python, Git, Linux, and DSA**
-- 💻 Committed to mastering the **skills tech giants actually care about**
-- 🧱 Building my way from the ground up — no shortcuts, just consistency
-- 🐍 Currently working on: Python projects + daily problem solving
+- 🎓 Electrical and Computer Engineering @ MIT-WPU Pune | Future Tech Architect
+- 🧠 Passionate about AI, Cybersecurity, VLSI, IoT & EV Tech
+- 💻 Currently learning: Python, Git, Linux
+- ⚔️ Building a portfolio to get hunted by top tech giants
+
+> “Don’t chase jobs — become so valuable they chase you.”
 
 ---
 
-### 🧠 Mission
-> **"Don’t chase jobs — become so valuable they chase you."**  
-I’m on a 4-year journey to build world-class skills and create work that speaks louder than any degree.
+### 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ---
 
-### 🛠️ Tech Stack (Learning & Exploring)
+### 📈 GitHub Stats
 
-- Languages: `Python`, `C`, `C++`, `Verilog (soon)`
-- Tools: `Git`, `VS Code`, `Linux`, `GitHub`
-- Domains: `AI/ML`, `Cybersecurity`, `VLSI Design`, `Embedded Systems`, `EV Tech`
-
----
-
-### 🔗 Connect with Me (Coming Soon...)
-
-- 📬 Email: coming soon  
-- 💼 LinkedIn: building it next 🔧  
-- 🧠 Personal Blog/Portfolio: coming in 2026 🛠️
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=visheshrawal&show_icons=true&theme=radical" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=visheshrawal&theme=radical" width="420"/>
+</p>
 
 ---
 
-### ⚔️ Projects In Progress
-- Python Starter Projects 🚧  
-- Git & GitHub Automation Scripts 🔁  
-- Embedded Dev Demos (Coming soon...) 🔋
+### 🌍 Contact Me
+
+- 📫 Email: [vishesh.rawal.dev@gmail.com](mailto:vishesh.rawal.dev@gmail.com)  
+- 💼 LinkedIn: *Coming soon...*
+- 🌐 Portfolio: *Coming soon...*
 
 ---
 
 <p align="center">
-  ⚡ <b>Building daily. Learning relentlessly. Dreaming big.</b> ⚡  
+  <img src="https://komarev.com/ghpvc/?username=visheshrawal&label=Profile+Views&color=blueviolet&style=flat"/>
 </p>
-
