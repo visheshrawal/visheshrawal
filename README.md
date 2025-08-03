@@ -40,7 +40,7 @@
 ### 🌍 Contact Me
 
 - 📫 Email: [vishesh.rawal.dev@gmail.com](mailto:vishesh.rawal.dev@gmail.com)  
-- 💼 LinkedIn: *Coming soon...*
+- 💼 LinkedIn: https://www.linkedin.com/in/vishesh-rawal
 - 🌐 Portfolio: *Coming soon...*
 
 ---
