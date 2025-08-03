@@ -41,7 +41,26 @@
 
 - 📫 Email: [vishesh.rawal.dev@gmail.com](mailto:vishesh.rawal.dev@gmail.com)  
 - 💼 LinkedIn: https://www.linkedin.com/in/vishesh-rawal
-- 🌐 Portfolio: *Coming soon...*
+- ## 🚀 Portfolio Highlights
+
+Here’s a glimpse of what I’m building and learning:
+
+- 🔗 [My LinkedIn](https://www.linkedin.com/in/vishesh-rawal) — Let's connect!
+- 💻 Completed: [Git & GitHub Crash Course (freeCodeCamp)](https://www.freecodecamp.org/)
+- 🛠️ Currently Building:
+  - Python projects (CLI tools, mini apps)
+  - GitHub profile optimization
+  - Learning AI/ML, VLSI, IoT in parallel
+- 📚 Ongoing Courses:
+  - Python Programming Essentials
+  - Tools: GitHub Desktop, VS Code, Pytest
+- 🌟 Next Up:
+  - AI mini-projects
+  - Hands-on with microcontrollers for IoT
+  - VLSI project (RTL Design learning in progress)
+
+> “Building the future, one line of code at a time.” 💡
+
 
 ---
 
