@@ -40,7 +40,7 @@
 ### 🌍 Contact Me
 
 - 📫 Email: [vishesh.rawal.dev@gmail.com](mailto:vishesh.rawal.dev@gmail.com)  
-- 💼 LinkedIn: *Coming soon...*
+- 💼 LinkedIn: - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishesh-rawal)  
 - 🌐 Portfolio: *Coming soon...*
 
 ---
@@ -48,3 +48,17 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=visheshrawal&label=Profile+Views&color=blueviolet&style=flat"/>
 </p>
+
+## 🏅 Certifications
+
+### Infosys Springboard — Python Basics (2025)  
+[Download certificate](../Vishesh_Rawal_Labs/blob/main/certificates/2025-Infosys-Python-Basics.pdf) •  
+![Infosys Cert](https://raw.githubusercontent.com/visheshrawal/Vishesh_Rawal_Labs/main/certificates/2025-Infosys-Python-Basics.png)
+
+---
+
+### Scaler — Python Fundamentals (2025)  
+[Download certificate](../Vishesh_Rawal_Labs/blob/main/certificates/2025-Scaler-Python-Fundamentals.pdf) •  
+![Scaler Cert](https://raw.githubusercontent.com/visheshrawal/Vishesh_Rawal_Labs/main/certificates/2025-Scaler-Python-Fundamentals.png)
+
+
