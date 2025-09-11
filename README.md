@@ -75,14 +75,15 @@ Here’s a glimpse of what I’m building and learning:
 
 ## 🏅 Certifications
 
-### Infosys Springboard — Python Basics (2025)  
-[Download certificate](../Vishesh_Rawal_Labs/blob/main/certificates/2025-Infosys-Python-Basics.pdf) •  
+### Infosys Springboard — Python Basics (2025) 
+- [Infosys Springboard Python Basics (PDF)](https://github.com/visheshrawal/Vishesh_Rawal_Labs/blob/main/certificates/2025-Infosys-Python-Basics.pdf)  
+
 ![Infosys Cert](https://raw.githubusercontent.com/visheshrawal/Vishesh_Rawal_Labs/main/certificates/2025-Infosys-Python-Basics.png)
 
 ---
 
 ### Scaler — Python Fundamentals (2025)  
-[Download certificate](../Vishesh_Rawal_Labs/blob/main/certificates/2025-Scaler-Python-Fundamentals.pdf) •  
+- [Scaler Python Fundamentals (PDF)](https://github.com/visheshrawal/Vishesh_Rawal_Labs/blob/main/certificates/2025-Scaler-Python-Fundamentals.pdf)  
 ![Scaler Cert](https://raw.githubusercontent.com/visheshrawal/Vishesh_Rawal_Labs/main/certificates/2025-Scaler-Python-Fundamentals.png)
 
 
