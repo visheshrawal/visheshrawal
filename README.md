@@ -42,7 +42,7 @@
 - 📫 Email: [vishesh.rawal.dev@gmail.com](mailto:vishesh.rawal.dev@gmail.com)  
 <<<<<<< HEAD
 - 💼 LinkedIn: - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishesh-rawal)  
-- 🌐 Portfolio: *Coming soon...*
+- 🌐 Portfolio: https://visheshrawal-resume.tiiny.site/
 =======
 - 💼 LinkedIn: https://www.linkedin.com/in/vishesh-rawal
 - ## 🚀 Portfolio Highlights
